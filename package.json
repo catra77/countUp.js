@@ -3,7 +3,7 @@
 	"description": "Animates a numerical value by counting to it",
 	"version": "2.0.4",
 	"license": "MIT",
-	"main": "./dist/countUp.min.js",
+	"main": "./dist/countUp.js",
 	"author": "@inorganik",
 	"repository": {
 		"type": "git",
